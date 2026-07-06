@@ -6,3 +6,9 @@
 ```bash
 pip install scapy
 
+
+## التشغيل
+يجب تشغيل السكربت بصلاحيات المسؤول (Administrator):
+
+```bash
+python Anomaly-Detector.py
